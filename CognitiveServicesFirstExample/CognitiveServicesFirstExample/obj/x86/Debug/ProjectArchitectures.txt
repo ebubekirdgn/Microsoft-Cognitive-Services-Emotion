@@ -1,0 +1,1 @@
+C:\Users\dgn13\Desktop\VisualStudio\CognitiveServicesFirstExample\CognitiveServicesFirstExample\CognitiveServicesFirstExample.csproj;x86
