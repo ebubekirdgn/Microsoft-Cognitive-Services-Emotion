@@ -8,9 +8,9 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Image  x:Name="image" HorizontalAlignment="Left" Height="200" Margin="175,304,0,0" VerticalAlignment="Top" Width="200" />
-        <TextBox x:Name="output" HorizontalAlignment="Left" Margin="539,304,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="200" Width="227" />
-        <Button  x:Name="takePhoto" Content="Fotoğraf Çek" HorizontalAlignment="Left" Margin="212,555,0,0" VerticalAlignment="Top" Click="takePhoto_Click" />
-        <Button x:Name="getEmotion" Content="Kontrol Et" HorizontalAlignment="Left" Margin="593,565,0,0" VerticalAlignment="Top" Click="getEmotion_Click" />
+        <Image  x:Name="image" HorizontalAlignment="Left" Height="200" Margin="186,318,0,0" VerticalAlignment="Top" Width="200" />
+        <TextBox x:Name="output" HorizontalAlignment="Left" Margin="435,318,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="200" Width="227" />
+        <Button  x:Name="takePhoto" Content="Fotoğraf Çek" HorizontalAlignment="Left" Margin="221,565,0,0" VerticalAlignment="Top" Click="takePhoto_Click" />
+        <Button x:Name="getEmotion" Content="Kontrol Et" HorizontalAlignment="Left" Margin="489,575,0,0" VerticalAlignment="Top" Click="getEmotion_Click" />
     </Grid>
 </Page>
